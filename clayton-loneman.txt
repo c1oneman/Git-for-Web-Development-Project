@@ -1,5 +1,5 @@
 Link to final codepen: https://codepen.io/claytonloneman/pen/qBZBdPQ?editors=1100
-
+Answers
     1. What is Semantic HTML?
     A way of organizing html to be readable and defined in a popular way to make sense to a browser.
     2. What is HTML used for? 
